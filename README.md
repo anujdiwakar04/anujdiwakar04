@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">- 📚 I'm currently learning AIML<br>👨‍💻 Passionate about clean code & scalable systems<br>⚡ Love coding challenges & algorithmic problem-solving<br>💬 Ask me about C, C++, Python, HTML and SQL</p>
+<p align="left">📚 I'm currently learning AIML<br>👨‍💻 Passionate about clean code & scalable systems<br>⚡ Love coding challenges & algorithmic problem-solving<br>💬 Ask me about C, C++, Python, HTML and SQL</p>
 
 ###
 
